@@ -1,0 +1,102 @@
+text,label
+"Just a harmless string.",0
+"User input with no special characters",0
+"This is a test string.",0
+"Plain text content.",0
+"Simple sentence without any malicious content.",0
+"Hello, World!",0
+"A user entered safe input here.",0
+"http://example.com",0
+"https://safe-site.org",0
+"<div>Normal content</div>",0
+"Click here to visit: http://example.com",0
+"Plain email: user@example.com",0
+"This is a line of text.",0
+"safeContent12345",0
+"Here is a number: 12345",0
+"This string contains no HTML or JavaScript.",0
+"Visit our site for more info.",0
+"More examples of safe user input.",0
+"Another line of non-malicious text.",0
+"normal text without any script tags",0
+"A harmless-looking URL: http://safe-url.com",0
+"Test string with some punctuation!",0
+"Safe input: [Hello there]",0
+"A comma-separated list, with no issues.",0
+"Check this out: (it's safe).",0
+"A simple sentence with quotes: 'Hello!'",0
+"Regular user input with a special character: &",0
+"This is a completely benign line of text.",0
+"More harmless text goes here.",0
+"Safe URL: https://example.org/abc",0
+"Simple input: just some words.",0
+"A typical string entered by a user.",0
+"Here's an escaped character: &amp;",0
+"Encoded email: user%40example.com",0
+"More safe content with numbers: 987654321",0
+"Some safe JSON input: {'key':'value'}",0
+"This should cause no issues at all.",0
+"A simple safe sentence.",0
+"Normal input: nothing special.",0
+"Example text: this is all fine.",0
+"Check out this safe URL: https://secure.com",0
+"Simple test input for validation.",0
+"Safe input again: no surprises here.",0
+"Harmless URL: ftp://example.org",0
+"More clean input: plain words.",0
+"Numbers are safe: 1234567890",0
+"A mix of letters and numbers: abc123",0
+"Completely innocuous user text.",0
+"This string is free of issues.",0
+"Another example of clean text.",0
+"More benign content for training.",0
+"Typical user input: looks fine.",0
+"A valid date: 2024-11-19",0
+"Just another test string.",0
+"Safe text example.",0
+"Check this out: perfectly clean.",0
+"Another safe sentence.",0
+"Here's a valid file path: C:\\Users\\Public",0
+"A valid search query: ?q=example",0
+"Simple, safe, and clean text.",0
+"Clean, valid content here.",0
+"Regular user-generated text.",0
+"Benign input example: perfectly harmless.",0
+"Completely safe JSON: {\"key\": \"value\"}",0
+"A valid email: valid.user@example.com",0
+"URL with a port: http://localhost:8000",0
+"Just a sequence of words.",0
+"This is normal content.",0
+"Some basic punctuation: !?.",0
+"Another basic example input.",0
+"A long string of harmless content.",0
+"Testing safe input for training purposes.",0
+"Some safe numbers: 2468013579",0
+"Clean URL: https://subdomain.example.com",0
+"This is as safe as it gets.",0
+"A string with nothing special.",0
+"Just another harmless example.",0
+"Valid input: simple, clean text.",0
+"Another sequence of plain words.",0
+"Clean user data: no risks.",0
+"A description: this text is benign.",0
+"Valid JSON string: {'safe': true}",0
+"Benign XML input: <tag>Safe</tag>",0
+"Valid file extension: .txt",0
+"A number: 42",0
+"Safe binary data: 01100101",0
+"Clean, simple, and effective.",0
+"This is perfectly safe text.",0
+"Non-malicious HTML: <b>bold</b>",0
+"Completely harmless sentence.",0
+"Another example of normal input.",0
+"Safe characters only: @#$%^&*()",0
+"A valid domain: example.org",0
+"Some additional clean input.",0
+"A random word: example",0
+"This is totally fine.",0
+"Clean, valid, and simple.",0
+"A normal-looking URL: http://safe.com",0
+"Nothing to worry about here.",0
+"This is just fine.",0
+"A list: apples, oranges, bananas",0

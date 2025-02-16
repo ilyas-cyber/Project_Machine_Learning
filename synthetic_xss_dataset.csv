@@ -1,0 +1,1000 @@
+text,label
+I should go to Nineveh,1
+<tt id=x tabindex=1 onactivate=alert(1)></tt>,1
+heâ€™ll ever let touch his face.,1
+<s id=x tabindex=1 onactivate=alert(1)></s>,0
+put it on. I know itâ€™s not going to matter whether the,0
+"<div draggable=""true"" contenteditable>drag me</div><main ondrop=alert(1) contenteditable>drop here</main>",1
+<q id=x tabindex=1 onbeforeactivate=alert(1)></q>,1
+"<element onmousedown=""alert(1)"">test</element>",1
+"<audio controls autoplay onended=alert(1)><source src=""validaudio.wav"" type=""audio/wav""></audio>",1
+"already within us: the frank look, the unabashed",0
+"<noembed onbeforecut=""alert(1)"" contenteditable>test</noembed>",1
+bonnet of a daffodilâ€”. Get divorced. Floss.,1
+"<meta draggable=""true"" ondragleave=""alert(1)"">test</meta>",1
+"Â  Used to be a whole lot of chalk around the Ark,",0
+"<plaintext oncopy=""alert(1)"" contenteditable>test</plaintext>",0
+"<style>:target {transform: rotate(180deg);}</style><i id=x style=""transition:transform 2s"" ontransitionrun=alert(1)></i>",1
+"<wbr draggable=""true"" ondragleave=""alert(1)"">test</wbr>",0
+<link onpointermove=alert(1)>XSS</link>,1
+"<style>:target {color:red;}</style><keygen id=x style=""transition:color 1s"" ontransitionend=alert(1)></keygen>",0
+"<SCRIPT>document.write(""<SCRI"");</SCRIPT>PT SRC=""httx://.rocks/.js""></SCRIPT>",0
+"I have a very important job for you, Yael, descendan",0
+"<style>:target {color:red;}</style><template id=x style=""transition:color 1s"" ontransitionend=alert(1)></template>",0
+in milk. he looked down at the,1
+"<nobr draggable=""true"" ondragstart=""alert(1)"">test</nobr>",1
+"<input onkeyup=""alert(1)"" contenteditable>test</input>",0
+"<b onbeforecopy=""alert(1)"" contenteditable>test</b>",1
+The cops arenâ€™t going to awe themselves,0
+</span> </h3>,1
+document.documentURI,1
+<param onpointerout=alert(1)>XSS</param>,1
+"<tr onclick=""alert(1)"">test</tr>",0
+"<figcaption onkeydown=""alert(1)"" contenteditable>test</figcaption>",0
+Costa Rica,1
+no halo of thorns around my head. And all I,0
+chalked & the missiles do all they were,1
+<figcaption onpointerout=alert(1)>XSS</figcaption>,0
+timed to the word denied with nothing,1
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â  how else could you record,1
+expel him into the snowy street.,1
+"<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><address id=x style=""position:absolute;"" onanimationcancel=""alert(1)""></address>",1
+<noscript onpointerup=alert(1)>XSS</noscript>,0
+<code id=x tabindex=1 onbeforedeactivate=alert(1)></code><input autofocus>,1
+"<dialog onbeforecopy=""alert(1)"" contenteditable>test</dialog>",1
+by the plucking of my beak,0
+"<rb onbeforepaste=""alert(1)"" contenteditable>test</rb>",1
+<embed onpointerover=alert(1)>XSS</embed>,0
+"â€Šâ€Šâ€Šâ€Š......â€Šâ€Šâ€Šâ€ŠWheels, mainstays: coils and springs, tense feet",1
+"not a beast, not a crib, nor yet her,",1
+"alone in the Charleville of my den,",1
+"<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><audio id=x style=""position:absolute;"" onanimationcancel=""alert(1)""></audio>",1
+"<tt draggable=""true"" ondragend=""alert(1)"">test</tt>",0
+"<rtc onbeforecopy=""alert(1)"" contenteditable>test</rtc>",0
+"<b onmouseenter=""alert(1)"">test</b>",1
+the door to life and unto the Kingdom of God.,0
+<center id=x tabindex=1 onfocus=alert(1)></center>,1
+<script id=x tabindex=1 onfocus=alert(1)></script>,1
+"<ins onmouseover=""alert(1)"">test</ins>",0
+<image onpointermove=alert(1)>XSS</image>,1
+"<bdo onmouseup=""alert(1)"">test</bdo>",0
+<s onfocusout=alert(1) tabindex=1 id=x></s><input autofocus>,0
+"<strong onkeydown=""alert(1)"" contenteditable>test</strong>",1
+"<datalist onmouseout=""alert(1)"">test</datalist>",0
+"<tt draggable=""true"" ondrag=""alert(1)"">test</tt>",0
+<svg id=x tabindex=1 onactivate=alert(1)></svg>,0
+"<table oncopy=""alert(1)"" contenteditable>test</table>",1
+"<style>@keyframes x{}</style><header style=""animation-name:x"" onanimationstart=""alert(1)""></header>",0
+"<bdi onkeydown=""alert(1)"" contenteditable>test</bdi>",0
+"<basefont oncopy=""alert(1)"" contenteditable>test</basefont>",0
+and let the music do the ascendingâ€“,0
+I never heard the noise and silence of mass murder.,0
+a posture torn from stone.,0
+"<style>@keyframes slidein {}</style><mark style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""alert(1)""></mark>",1
+summoning the insomniacs (who were up,1
+5,0
+"<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><content id=x style=""position:absolute;"" onanimationcancel=""alert(1)""></content>",1
+"<input type=""text"" name=""q"" placeholder=""Search docs"" />",0
+"<article onkeyup=""alert(1)"" contenteditable>test</article>",1
+</span>,1
+"<span onkeypress=""alert(1)"" contenteditable>test</span>",1
+"<a draggable=""true"" ondragleave=""alert(1)"">test</a>",1
+"opened my hands and heâ€™d place his faults,",1
+Wolves in our botanical garden ask nothing of any hu,0
+"</div> </td> </tr><tr><td class=""navbox-abovebelow"" colspan=""2"">",0
+and no stopping him.,1
+"<keygen onmouseup=""alert(1)"">test</keygen>",0
+<svg><bdo onload=alert(1)></bdo>,0
+<figure id=x tabindex=1 onbeforedeactivate=alert(1)></figure><input autofocus>,1
+No name so how do you discern a shape for,1
+"<listing onbeforepaste=""alert(1)"" contenteditable>test</listing>",0
+"followed by a deep-drawn whoo,",0
+glint in your eyes.,0
+"<template draggable=""true"" ondragend=""alert(1)"">test</template>",1
+"there you will find her looking at you, babe in arm,",0
+"<element onmouseleave=""alert(1)"">test</element>",1
+the name of Elephant. In the name of Snake.,0
+iii.,1
+Suddenly you polish a syllogism of your own,0
+</span> </li>,0
+"<noembed onkeyup=""alert(1)"" contenteditable>test</noembed>",0
+<header id=x tabindex=1 ondeactivate=alert(1)></header><input id=y autofocus>,0
+</span>,1
+Hard wind at the graveside. Hard lives hardly there.,1
+"<embed onbeforepaste=""alert(1)"" contenteditable>test</embed>",0
+not useful? Anything,0
+"Walk along, and learn to believe that awe asks nothi",0
+Our tragedy is we canâ€™t see it.,1
+"<kbd onbeforecopy=""alert(1)"" contenteditable>test</kbd>",0
+Â,1
+"<kbd oncut=""alert(1)"" contenteditable>test</kbd>",1
+the way it comes to me comes for me in all its,0
+"<style>:target {transform: rotate(180deg);}</style><label id=x style=""transition:transform 2s"" ontransitionrun=alert(1)></label>",1
+<title>Scrapy 2.0 documentation &mdash; Scrapy 2.0.0 documentation</title>,1
+<main onpointerover=alert(1)>XSS</main>,1
+"<colgroup onpaste=""alert(1)"" contenteditable>test</colgroup>",1
+for earth to live again,1
+solemnly wiped the calf slobbers off.,1
+"<object draggable=""true"" ondragend=""alert(1)"">test</object>",0
+a way to keep body and soul,0
+â€” And faith?,0
+"<button oncopy=""alert(1)"" contenteditable>test</button>",0
+"<style>:target {color:red;}</style><p id=x style=""transition:color 1s"" ontransitionend=alert(1)></p>",0
+</div></div>,1
+<noframes onpointermove=alert(1)>XSS</noframes>,1
+He did the whole Qurâ€™an this way,1
+<rp onpointerleave=alert(1)>XSS</rp>,0
+</span>,0
+"<blink onkeypress=""alert(1)"" contenteditable>test</blink>",1
+"<main onmouseenter=""alert(1)"">test</main>",0
+"<address onkeypress=""alert(1)"" contenteditable>test</address>",1
+<div onpointerup=alert(1)>XSS</div>,1
+"<style>@keyframes x{}</style><progress style=""animation-name:x"" onanimationstart=""alert(1)""></progress>",1
+"<li id=""cite_note-Multi-agent_planning-114""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-Multi-agent_planning_114-0"">^ </a> </b>",1
+"a coat, a jacket, a leather purse",0
+About grasshoppers this high up before,1
+Â,1
+document.documentURI,1
+<meta onpointerout=alert(1)>XSS</meta>,1
+<main id=x tabindex=1 onactivate=alert(1)></main>,0
+"in a cup and writing this against death,",1
+"Â Â Â Â Â Â Â Â Â Â Â  Noah,",0
+with her greater power. When he visits the watering,0
+<figcaption onpointerenter=alert(1)>XSS</figcaption>,1
+but nervously. And a little bit curious. Even,0
+<td onpointermove=alert(1)>XSS</td>,1
+<span id=x tabindex=1 ondeactivate=alert(1)></span><input id=y autofocus>,0
+"<br draggable=""true"" ondragleave=""alert(1)"">test</br>",1
+the joy is in untying the string.,1
+"<p draggable=""true"" ondragstart=""alert(1)"">test</p>",0
+"<audio autoplay onloadedmetadata=alert(1)> <source src=""validaudio.wav"" type=""audio/wav""></audio>",1
+wondering what the owl thought of this.,0
+"<style>:target {color:red;}</style><fieldset id=x style=""transition:color 1s"" ontransitionend=alert(1)></fieldset>",1
+<meta id=x tabindex=1 onfocus=alert(1)></meta>,1
+"<style>@keyframes x{}</style><spacer style=""animation-name:x"" onanimationend=""alert(1)""></spacer>",1
+"<ins onbeforecopy=""alert(1)"" contenteditable>test</ins>",1
+Â,0
+the apple or the rib,0
+rehearsing her Anne Frank and pausing anxiously for,0
+the moon is my librarythereâ€™s a glacier,0
+A couple of men in uniform,0
+"<li onbeforepaste=""alert(1)"" contenteditable>test</li>",1
+"<output draggable=""true"" ondragstart=""alert(1)"">test</output>",0
+"God says to the meek one, â€œOn Sunday mornings, have t",1
+"<isindex ondblclick=""alert(1)"">test</isindex>",1
+<bgsound id=x tabindex=1 onactivate=alert(1)></bgsound>,1
+who loves themâ€‰â€”â€‰that there is someoneâ€‰â€”â€‰,0
+I donâ€™t know why I waste,0
+"untouching, entangled, sustained, free.",0
+men tossed to the oceanâ€™s,1
+<input4 onpointerdown=alert(1)>XSS</input4>,0
+</ul>,0
+"<style>:target {color: red;}</style><title id=x style=""transition:color 10s"" ontransitioncancel=alert(1)></title>",0
+for the public to take hold of!,0
+scentless instructions. My mission is over.,0
+"<h4><span class=""mw-headline"" id=""Robot_rights"">Robot rights",1
+"<span id=""topics-index"">",1
+"<li id=""cite_note-Decisions_theory_and_analysis-213""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-Decisions_theory_and_analysis_213-0"">^ </a> </b>",1
+"<tr draggable=""true"" ondrag=""alert(1)"">test</tr>",0
+i am a stranger to this body,0
+Had Azrael not seenÂ  Â  Â  in the hastily,0
+"<style>:target {transform: rotate(180deg);}</style><slot id=x style=""transition:transform 2s"" ontransitionrun=alert(1)></slot>",0
+"<thead draggable=""true"" ondragenter=""alert(1)"">test</thead>",0
+<tfoot onpointerout=alert(1)>XSS</tfoot>,1
+"<li class=""toclevel-2 tocsection-34""><a href=""#Evaluating_progress""><span class=""tocnumber"">6.6",0
+The heat.,0
+<applet id=x tabindex=1 onactivate=alert(1)></applet>,1
+"<div draggable=""true"" contenteditable>drag me</div><option ondrop=alert(1) contenteditable>drop here</option>",1
+"<style>:target {transform: rotate(180deg);}</style><blockquote id=x style=""transition:transform 2s"" ontransitionrun=alert(1)></blockquote>",0
+"<li id=""cite_note-158""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-158"">^ </a> </b>",1
+"<li><a href=""#CITEREFHutter2005"">Hutter 2005 </a>pp.&#160;125–126 </li> </ul>",1
+<head id=x tabindex=1 onfocusin=alert(1)></head>,1
+"<ol onkeyup=""alert(1)"" contenteditable>test</ol>",1
+"Clytemnestraâ€™s scream, Draupadiâ€™s rage",1
+you include something,0
+"<video onkeypress=""alert(1)"" contenteditable>test</video>",1
+"of slow dreams and lily-like parasols, in snaps",0
+so you donâ€™t have to look at yourself. I saw,0
+Later in Catalonia I danced the Sardanaâ€‰â€”â€‰,1
+</span> </li>,1
+"<del onclick=""alert(1)"">test</del>",1
+"so be it, let us have magic. Let us have",1
+"<colgroup onpaste=""alert(1)"" contenteditable>test</colgroup>",0
+<image onpointerover=alert(1)>XSS</image>,1
+</span>,1
+"<listing onbeforepaste=""alert(1)"" contenteditable>test</listing>",0
+"echo('IPT>alert("")</SCRIPT>')",0
+"<bdo onbeforepaste=""alert(1)"" contenteditable>test</bdo>",0
+there nonetheless. I studied them from a distance.,0
+fluting for a lost future.,0
+who had dark roots underneath her bleached curls?,0
+"<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><caption id=x style=""position:absolute;"" onanimationcancel=""alert(1)""></caption>",0
+"and flew away from the boat, seeking a place",0
+<figcaption onblur=alert(1) tabindex=1 id=x></figcaption><input autofocus>,1
+with its artifacts of pregnancy & loss.,1
+"<dt><a class=""reference internal"" href=""topics/commands.html""><span class=""doc"">Command line tool",1
+<header id=x tabindex=1 onbeforeactivate=alert(1)></header>,0
+"<strong onbeforepaste=""alert(1)"" contenteditable>test</strong>",1
+"<li class=""toctree-l1""><a class=""reference internal"" href=""topics/media-pipeline.html"">Downloading and processing files and images</a></li>",0
+"<datalist draggable=""true"" ondragend=""alert(1)"">test</datalist>",0
+<audio id=x tabindex=1 ondeactivate=alert(1)></audio><input id=y autofocus>,0
+"<dd onmouseover=""alert(1)"">test</dd>",0
+"</TITLE><SCRIPT>alert("");</SCRIPT>",0
+<u onpointerleave=alert(1)>XSS</u>,0
+"</div> </td> </tr><tr><th scope=""row"" class=""navbox-group"" style=""width:1%"">Applied<br />computing </th><td class=""navbox-list navbox-odd"" style=""text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"">",0
+The moon sees nothing of this. She is bald and wild,0
+"â€” Oh, Eden! Oh, heeded ode!",0
+<svg><div onload=alert(1)></div>,0
+"<ol oncut=""alert(1)"" contenteditable>test</ol>",1
+"Its every move a trial through chaos and the Pit,",1
+"<tt onmouseout=""alert(1)"">test</tt>",0
+"of will, the guitar echoes this, a chord,",1
+"<style>:target {color:red;}</style><blink id=x style=""transition:color 1s"" ontransitionend=alert(1)></blink>",1
+<sup onpointerover=alert(1)>XSS</sup>,1
+<rb id=x tabindex=1 onbeforedeactivate=alert(1)></rb><input autofocus>,1
+"<li><a href=""#CITEREFHutter2005"">Hutter 2005 </a>pp.&#160;125–126 </li> </ul>",0
+"<dd onmouseenter=""alert(1)"">test</dd>",1
+"<applet onmousedown=""alert(1)"">test</applet>",1
+"<s oncontextmenu=""alert(1)"">test</s>",1
+"not undangerous hound, complacency?",1
+replies.,1
+"<spacer onbeforecut=""alert(1)"" contenteditable>test</spacer>",0
+Â,0
+<wbr onblur=alert(1) tabindex=1 id=x></wbr><input autofocus>,1
+"in the bucket, my father standing at the gate,",1
+"At Lathmar Holi, would you ever stop laughing then?",1
+"<param onbeforecut=""alert(1)"" contenteditable>test</param>",0
+"<article oncut=""alert(1)"" contenteditable>test</article>",0
+"or first dwells in, before it navigates",1
+<svg><div onload=alert(1)></div>,1
+<picture id=x tabindex=1 onbeforedeactivate=alert(1)></picture><input autofocus>,0
+"<button draggable=""true"" ondragstart=""alert(1)"">test</button>",0
+"<tbody onbeforepaste=""alert(1)"" contenteditable>test</tbody>",0
+not even a woven palm frond. Just You and me.,0
+"<td draggable=""true"" ondragend=""alert(1)"">test</td>",0
+"<style>@keyframes x{}</style><hgroup style=""animation-name:x"" onanimationend=""alert(1)""></hgroup>",1
+the tumult of memories he had to bear?,1
+"<strike onkeyup=""alert(1)"" contenteditable>test</strike>",0
+Unheard in the transition. Thus do we,0
+one Â  Â  Â  O Terrible God of the Mechanical Age I am,1
+"<li class=""wy-breadcrumbs-aside"">",1
+"<menuitem oncontextmenu=""alert(1)"">test</menuitem>",0
+"<spacer onmouseup=""alert(1)"">test</spacer>",0
+the apple or the rib,1
+<source onfocusout=alert(1) tabindex=1 id=x></source><input autofocus>,1
+<svg><discard onbegin=alert(1)>,1
+"<p onmouseenter=""alert(1)"">test</p>",1
+The body they do not compete can,0
+"The Heir. Once, after",1
+something in the handholding and,1
+&#x00003C,0
+"over fallow pastures his crows patrolled,",0
+"<section data-toggle=""wy-nav-shift"" class=""wy-nav-content-wrap"">",1
+"<li onkeydown=""alert(1)"" contenteditable>test</li>",1
+"<label draggable=""true"" ondragleave=""alert(1)"">test</label>",0
+No one knows if it was simply a matter of mixed,1
+"</div> </td> </tr><tr><th scope=""row"" class=""navbox-group"" style=""width:1%"">Applied<br />computing </th><td class=""navbox-list navbox-odd"" style=""text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"">",1
+<sub id=x tabindex=1 ondeactivate=alert(1)></sub><input id=y autofocus>,1
+Discussion:,1
+"<area onbeforecopy=""alert(1)"" contenteditable>test</area>",1
+"<noembed onkeyup=""alert(1)"" contenteditable>test</noembed>",1
+attempt to dress in a sporty way (whoâ€™s,0
+"<dt><a class=""reference internal"" href=""topics/architecture.html""><span class=""doc"">Architecture overview",1
+Â,1
+"<rt onmousemove=""alert(1)"">test</rt>",1
+"<li class=""toclevel-3 tocsection-17""><a href=""#Cognitive_simulation""><span class=""tocnumber"">5.2.1",1
+"<div draggable=""true"" contenteditable>drag me</div><content ondragover=alert(1) contenteditable>drop here</content>",0
+<acronym onpointerleave=alert(1)>XSS</acronym>,0
+Â,1
+2.,0
+"<li id=""cite_note-320""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-320"">^ </a> </b>",1
+"in time, but Eva stayed, a loss.",1
+"Was it humility, to feel so honoured?",0
+The carnation,1
+Before he knew the wordÂ  Â  Â  clouds was the last word,1
+"<label draggable=""true"" ondrag=""alert(1)"">test</label>",0
+on my own. Organize a large party. Hire,0
+"my breath with its curry and accent,",1
+"<hgroup onmouseover=""alert(1)"">test</hgroup>",0
+});,1
+<set onpointerdown=alert(1)>XSS</set>,1
+"<rt draggable=""true"" ondragend=""alert(1)"">test</rt>",0
+who circles the perimeter,1
+brighter and harsher and more intoxicating,1
+"<aside onbeforecopy=""alert(1)"" contenteditable>test</aside>",0
+"<audio onmousedown=""alert(1)"">test</audio>",0
+"<video oncontextmenu=""alert(1)"">test</video>",0
+<input onpointerup=alert(1)>XSS</input>,1
+Praise the going home,1
+"document.getElementsByName("")",1
+dered why he had been given gifts even God,1
+<svg onpointerout=alert(1)>XSS</svg>,1
+<marquee onpointermove=alert(1)>XSS</marquee>,0
+"a heavy rain, drops spill from",0
+<content onpointerup=alert(1)>XSS</content>,1
+"I got myself inside, and closed the hatch.",1
+</span> </h4>,1
+<fieldset onpointerout=alert(1)>XSS</fieldset>,1
+The light of Heaven cast on common things.,0
+"who nestled the Coptic Bible to their ribs, would",0
+</span> </h3>,0
+curdled belly,1
+<svg><video onload=alert(1)></video>,0
+is hard and choked with juice like a plastic,1
+"By the salt of your corruption, and the tears",0
+"for each other and the world, find their way",0
+<address onpointermove=alert(1)>XSS</address>,0
+point: the same paradise,1
+he was our favorite,1
+"Of cymballed fountains hidden in the dale,",1
+"<noscript onmouseover=""alert(1)"">test</noscript>",1
+That is no country for old men. The young,0
+"<div draggable=""true"" contenteditable>drag me</div><tfoot ondrop=alert(1) contenteditable>drop here</tfoot>",1
+<shadow onpointerup=alert(1)>XSS</shadow>,1
+</span> </li>,0
+<dfn onpointermove=alert(1)>XSS</dfn>,1
+</span> </h4>,1
+</span></code></a>-powered libraries.</dd>,1
+"<base onkeypress=""alert(1)"" contenteditable>test</base>",1
+i.,1
+"<bdi draggable=""true"" ondragenter=""alert(1)"">test</bdi>",1
+"<strong onkeypress=""alert(1)"" contenteditable>test</strong>",1
+<thead onpointerup=alert(1)>XSS</thead>,1
+"<li id=""cite_note-299""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-299"">^ </a> </b>",1
+hidden room,0
+"<li id=""cite_note-AI_in_2000s-13""><span class=""mw-cite-backlink"">^ <a href=""#cite_ref-AI_in_2000s_13-0""><sup><i><b>a </b> </i> </sup> </a> <a href=""#cite_ref-AI_in_2000s_13-1""><sup><i><b>b </b> </i> </sup> </a> <a href=""#cite_ref-AI_in_2000s_13-2""><sup><i><b>c </b> </i> </sup> </a>",0
+"<dl draggable=""true"" ondrag=""alert(1)"">test</dl>",1
+<em onblur=alert(1) tabindex=1 id=x></em><input autofocus>,0
+They remember our having remembered.,0
+"<video oncopy=""alert(1)"" contenteditable>test</video>",1
+no sense of territory,0
+"<element draggable=""true"" ondragleave=""alert(1)"">test</element>",1
+incredibly graceful despite his or her mood.,1
+"Just like a gladiola, its true flower",0
+</span>,1
+"<colgroup onmousedown=""alert(1)"">test</colgroup>",0
+no longer has and privileges,0
+his stomach upset. Heads all bent.,0
+Â,0
+"<style>:target {color:red;}</style><var id=x style=""transition:color 1s"" ontransitionend=alert(1)></var>",1
+"Ninurta of the Silence, and there also",0
+<progress id=x tabindex=1 onfocus=alert(1)></progress>,0
+"<style>@keyframes x{}</style><head style=""animation-name:x"" onanimationstart=""alert(1)""></head>",1
+"<style>:target {transform: rotate(180deg);}</style><main id=x style=""transition:transform 2s"" ontransitionrun=alert(1)></main>",0
+"<li id=""cite_note-Stochastic_temporal_models-211""><span class=""mw-cite-backlink"">^ <a href=""#cite_ref-Stochastic_temporal_models_211-0""><sup><i><b>a </b> </i> </sup> </a> <a href=""#cite_ref-Stochastic_temporal_models_211-1""><sup><i><b>b </b> </i> </sup> </a> <a href=""#cite_ref-Stochastic_temporal_models_211-2""><sup><i><b>c </b> </i> </sup> </a>",1
+"<footer oncontextmenu=""alert(1)"">test</footer>",0
+"<div class=""version"">",1
+or the slaughterhouse.,0
+<small onfocusout=alert(1) tabindex=1 id=x></small><input autofocus>,1
+From his ploughing fields and his sweat,0
+burning with no smoke,0
+"<svg draggable=""true"" ondragend=""alert(1)"">test</svg>",1
+B: You never told me you were Jewish.,0
+"<style>@keyframes slidein {}</style><main style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""alert(1)""></main>",0
+"who sits, while I muse, on my right shoulder and who",1
+To be dressed in clothes others wish you to wear,1
+</span> </li>,1
+"<style>@keyframes x{}</style><time style=""animation-name:x"" onanimationstart=""alert(1)""></time>",1
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  unaccountably,0
+"<address onmouseout=""alert(1)"">test</address>",0
+<abbr onblur=alert(1) tabindex=1 id=x></abbr><input autofocus>,0
+You may want to know why.,0
+"<style>:target {color: red;}</style><marquee id=x style=""transition:color 10s"" ontransitioncancel=alert(1)></marquee>",0
+"<style>@keyframes x{}</style><bdi style=""animation-name:x"" onanimationstart=""alert(1)""></bdi>",1
+"All-knowing Rimat-Ninsun spoke to him,",0
+"of a warm wind, plumed with love and things like lov",1
+In my motherland people pray to the crosses of flyin,1
+"<blink draggable=""true"" ondragenter=""alert(1)"">test</blink>",1
+<br id=x tabindex=1 onbeforedeactivate=alert(1)></br><input autofocus>,1
+"<isindex onclick=""alert(1)"">test</isindex>",0
+and then slowly slowly,1
+"<li><a href=""/wiki/Ubiquitous_robot"" title=""Ubiquitous robot"">Ubiquitous </a> </li> </ul>",1
+"any truth, and so published a memoir later",1
+"After Hieronymus Bosch, â€œThe Garden of Earthly Delight",1
+"<fieldset onbeforepaste=""alert(1)"" contenteditable>test</fieldset>",1
+"in the shadow of the rainfall,",0
+"<BR SIZE=""&{alert('')}"">",1
+<animatetransform onpointermove=alert(1)>XSS</animatetransform>,1
+"<style>@keyframes x{}</style><strike style=""animation-name:x"" onanimationstart=""alert(1)""></strike>",0
+"<image onmouseover=""alert(1)"">test</image>",1
+"Wherein she, to be both sacrum & wristâ€”",1
+<image2 onpointerdown=alert(1)>XSS</image2>,0
+"<form oncut=""alert(1)"" contenteditable>test</form>",0
+"Of ox and luncheon tongue, six hundred pounds;",0
+"the tenants, the good Negroes down in the village,",1
+"<p onpaste=""alert(1)"" contenteditable>test</p>",1
+<ruby onpointerout=alert(1)>XSS</ruby>,1
+Under your sheathed paw,0
+"<area draggable=""true"" ondragend=""alert(1)"">test</area>",1
+"among sounds, unhearable, bang away,",0
+"<style>:target {transform: rotate(180deg);}</style><blockquote id=x style=""transition:transform 2s"" ontransitionrun=alert(1)></blockquote>",1
+Inside the receiver I hear crackle,1
+"<address onbeforecut=""alert(1)"" contenteditable>test</address>",0
+we forgot how to be thirsty,0
+"<cite ondblclick=""alert(1)"">test</cite>",0
+"<figure draggable=""true"" ondragstart=""alert(1)"">test</figure>",0
+"<basefont onkeyup=""alert(1)"" contenteditable>test</basefont>",0
+<shadow id=x tabindex=1 onbeforeactivate=alert(1)></shadow>,0
+<dl onblur=alert(1) tabindex=1 id=x></dl><input autofocus>,1
+</span>,1
+"I donâ€™t explain to Sophiaâ€™s mom,",0
+Nothing gets futured without its own spitshine,0
+"<colgroup onmousemove=""alert(1)"">test</colgroup>",0
+for them & for me & yourself & the polisâ€‰â€”â€‰,0
+Is the one I fear there with her train,0
+"<nextid onmouseenter=""alert(1)"">test</nextid>",0
+static noise to us down here. i noticed,0
+"<strong onmouseleave=""alert(1)"">test</strong>",1
+VII.,0
+"<li><a href=""/wiki/Interactive_evolutionary_computation"" title=""Interactive evolutionary computation"">Interactive evolutionary computation </a> </li> </ul>",1
+</span> </li>,1
+"<tfoot onmouseleave=""alert(1)"">test</tfoot>",1
+</span> </li>,1
+"The boy is parenthesis,",0
+<body onblur=alert(1) id=x><iframe id=x>,0
+"<rtc oncut=""alert(1)"" contenteditable>test</rtc>",1
+"to be ignored. My grandfather, back hunched",0
+Cannot perform but men easily accomplish.,0
+your mouth open & the tattered Crombie.,0
+<template onblur=alert(1) tabindex=1 id=x></template><input autofocus>,1
+Rain-cracked and wind-straddled.,1
+"<style>@keyframes x{}</style><abbr style=""animation-name:x"" onanimationend=""alert(1)""></abbr>",0
+"<p class=""caption""><span class=""caption-text"">Basic concepts",1
+"and like that time, we learn it by its lack.",1
+"<tt onmouseup=""alert(1)"">test</tt>",1
+"<style>:target {color: red;}</style><script id=x style=""transition:color 10s"" ontransitioncancel=alert(1)></script>",1
+uncertain,1
+we knew,0
+But I have them convinced I will show them something,1
+must get back.,1
+So we hit it off right away,1
+"unearthly music, such as sailors",1
+"<span oncut=""alert(1)"" contenteditable>test</span>",0
+Â  birds perched on a crooked branch,1
+"<style>:target {color: red;}</style><cite id=x style=""transition:color 10s"" ontransitioncancel=alert(1)></cite>",0
+"<li><a href=""/wiki/Substance_dualism"" class=""mw-redirect"" title=""Substance dualism"">Substance dualism </a> </li> </ul>",0
+"<style>@keyframes x{}</style><aside style=""animation-name:x"" onanimationend=""alert(1)""></aside>",1
+restless and unwilling. It formulates inside me like,1
+"</tr><tr><td style=""text-align:right;font-size:115%"">",0
+<strike id=x tabindex=1 onbeforeactivate=alert(1)></strike>,0
+"<div draggable=""true"" contenteditable>drag me</div><tbody ondragover=alert(1) contenteditable>drop here</tbody>",0
+<q onblur=alert(1) tabindex=1 id=x></q><input autofocus>,1
+that we may learn,0
+"<head onpaste=""alert(1)"" contenteditable>test</head>",0
+"<audio controls autoplay onended=alert(1)><source src=""validaudio.wav"" type=""audio/wav""></audio>",1
+<rb onpointermove=alert(1)>XSS</rb>,1
+"<input type=""hidden"" name=""area"" value=""default"" />",1
+"<ol ondblclick=""alert(1)"">test</ol>",1
+7,1
+"<audio onmouseenter=""alert(1)"">test</audio>",1
+five six days,0
+onFocus(),1
+like monsoon water. You swivel your sightless head.,1
+"for its little feet to alight, and finding none,",1
+"shimmer. Still nothing new to say about the creek, h",0
+<details id=x tabindex=1 onbeforeactivate=alert(1)></details>,1
+<track onpointerup=alert(1)>XSS</track>,0
+From the sun and saw instead the warm rain tearing,0
+The dreams that were when Arcady began,0
+"<base draggable=""true"" ondragend=""alert(1)"">test</base>",0
+"And the rest doubled up between, his head",0
+like a child again in her star-apple kingdom.,1
+Â,0
+"<th onkeypress=""alert(1)"" contenteditable>test</th>",1
+"<rtc ondblclick=""alert(1)"">test</rtc>",0
+"<area onbeforepaste=""alert(1)"" contenteditable>test</area>",1
+in one pan of the balance scale,0
+Description is what has been taken away,1
+"<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><small id=x style=""position:absolute;"" onanimationcancel=""alert(1)""></small>",1
+6.,0
+<dialog onpointerover=alert(1)>XSS</dialog>,0
+<ol id=x tabindex=1 onbeforedeactivate=alert(1)></ol><input autofocus>,1
+Port Royal perished in a cataclysmic earthquake.,1
+the walls gentle as blue flames they curl into,0
+for no reason,0
+<canvas onpointerup=alert(1)>XSS</canvas>,0
+"<style>:target {color: red;}</style><dl id=x style=""transition:color 10s"" ontransitioncancel=alert(1)></dl>",1
+<param id=x tabindex=1 onbeforedeactivate=alert(1)></param><input autofocus>,0
+"<noscript onmouseup=""alert(1)"">test</noscript>",1
+"<picture onkeyup=""alert(1)"" contenteditable>test</picture>",1
+You belong in the books I read,1
+"</div> </td> </tr><tr><th scope=""row"" class=""navbox-group"" style=""width:1%""><a href=""/wiki/Machine_learning"" title=""Machine learning"">Machine learning </a> </th><td class=""navbox-list navbox-odd"" style=""text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"">",0
+That the hoarse guns blared across.,0
+"<div draggable=""true"" contenteditable>drag me</div><applet ondrop=alert(1) contenteditable>drop here</applet>",1
+"<param onkeypress=""alert(1)"" contenteditable>test</param>",1
+<basefont onpointerleave=alert(1)>XSS</basefont>,0
+"down the gullies of Yallahs and August Town,",1
+"He was lathered like a horse, but the instant",0
+"<figure oncontextmenu=""alert(1)"">test</figure>",1
+<object onblur=alert(1) tabindex=1 id=x></object><input autofocus>,1
+"<nobr ondblclick=""alert(1)"">test</nobr>",1
+"<big ondblclick=""alert(1)"">test</big>",1
+every day a heave of knitting patterns,1
+<a id=x tabindex=1 onbeforeactivate=alert(1)></a>,1
+algae bloom beneath the board,0
+<script x> alert(1) </script 1=2,1
+"tree, but you provided shelter. Can houses tremble?",0
+<body onpointerout=alert(1)>XSS</body>,0
+"<bdo onpaste=""alert(1)"" contenteditable>test</bdo>",1
+sweatdrip slimedrip,1
+"<style>@keyframes slidein {}</style><ruby style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""alert(1)""></ruby>",0
+by the time it stopped your fear turned to anger.,1
+</span>,1
+"<style>@keyframes x{}</style><del style=""animation-name:x"" onanimationend=""alert(1)""></del>",0
+"<small draggable=""true"" ondragend=""alert(1)"">test</small>",0
+from peace vessels of the animals,0
+in my family to the time of desert / clot of blood &,1
+<multicol id=x tabindex=1 onbeforeactivate=alert(1)></multicol>,0
+"<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><article id=x style=""position:absolute;"" onanimationcancel=""alert(1)""></article>",1
+"of the Lady Wildcow Ninsun, Gilgamesh",1
+"<ruby draggable=""true"" ondragend=""alert(1)"">test</ruby>",0
+"<ul class=""wy-breadcrumbs"">",1
+About grasshoppers this high up before,1
+</div>,1
+"know youâ€‰â€”â€‰our eyes like a golemâ€™s, empty",0
+<custom tags onpointerover=alert(1)>XSS</custom tags>,1
+</span> 2019,1
+"wherein every hour has its sound, every day its grac",0
+"<svg onmouseover=""alert(1)"">test</svg>",1
+â€”,0
+<ins id=x tabindex=1 onbeforedeactivate=alert(1)></ins><input autofocus>,1
+"nor a wing attached to a claw,",1
+"<li><a href=""/wiki/Logical_atomism"" title=""Logical atomism"">Logical atomism </a><span class=""nowrap"">&#160;",1
+"Dear saint, I know you will not",1
+climbed up the stairs and knocked at the door,0
+"Blake, probably gardening",1
+"<style>@keyframes x{}</style><command style=""animation-name:x"" onanimationstart=""alert(1)""></command>",0
+"and the rain stopped teething,",1
+"<header onkeyup=""alert(1)"" contenteditable>test</header>",0
+"<div class=""thumb tright"">",1
+<blink onpointermove=alert(1)>XSS</blink>,0
+"<code draggable=""true"" ondragenter=""alert(1)"">test</code>",1
+Â,1
+a desolate synagogue. I never ate or drank,0
+"<b draggable=""true"" ondragenter=""alert(1)"">test</b>",0
+"so many brothers died before I learned to count,",0
+<i onfocusout=alert(1) tabindex=1 id=x></i><input autofocus>,0
+<content onpointerout=alert(1)>XSS</content>,1
+</span>,0
+"<ol onbeforepaste=""alert(1)"" contenteditable>test</ol>",0
+"<li><a href=""/wiki/Semantic_reasoner"" title=""Semantic reasoner"">Semantic reasoner </a> </li> </ul>",0
+"<li id=""cite_note-Breadth_of_commonsense_knowledge-106""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-Breadth_of_commonsense_knowledge_106-0"">^ </a> </b>",1
+"<spacer oncopy=""alert(1)"" contenteditable>test</spacer>",0
+Iâ€™m hell-humming in,0
+"<html oncut=""alert(1)"" contenteditable>test</html>",0
+both Abraham and Ishmael's guilt,1
+"There are no blossoms left in the trees,",0
+"<command onmouseleave=""alert(1)"">test</command>",0
+<em onpointerleave=alert(1)>XSS</em>,0
+"<h4><span class=""mw-headline"" id=""Transhumanism"">Transhumanism",1
+"<menuitem onpaste=""alert(1)"" contenteditable>test</menuitem>",0
+"<ol onmouseleave=""alert(1)"">test</ol>",0
+"<font oncopy=""alert(1)"" contenteditable>test</font>",0
+"Soul clap its hands and sing, and louder sing",0
+Â,1
+<ins id=x tabindex=1 onfocusin=alert(1)></ins>,1
+Some people say,1
+though i know none for my [ Â  Â  ],0
+"<style>:target {color:red;}</style><command id=x style=""transition:color 1s"" ontransitionend=alert(1)></command>",1
+"<style>@keyframes x{}</style><li style=""animation-name:x"" onanimationstart=""alert(1)""></li>",0
+"<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><sub id=x style=""position:absolute;"" onanimationcancel=""alert(1)""></sub>",1
+â€¢,1
+"<input ondblclick=""alert(1)"">test</input>",0
+"<rb draggable=""true"" ondragenter=""alert(1)"">test</rb>",0
+<rtc onpointermove=alert(1)>XSS</rtc>,1
+on a slim volume of poetryâ€”,1
+"<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><iframe id=x style=""position:absolute;"" onanimationcancel=""alert(1)""></iframe>",0
+"<i draggable=""true"" ondragstart=""alert(1)"">test</i>",0
+"<style>:target {transform: rotate(180deg);}</style><output id=x style=""transition:transform 2s"" ontransitionrun=alert(1)></output>",0
+"</div><img src=""//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1"" alt="" title="" width=""1"" height=""1"" style=""border: none; position: absolute;"" /> </div>",0
+"<abbr onmousedown=""alert(1)"">test</abbr>",0
+"Were they planting trees,",0
+the first rainbow he shredded was that one,0
+"<menu draggable=""true"" ondragend=""alert(1)"">test</menu>",0
+Â,1
+"of Elizabethan ruff at the edges,",0
+"<style>:target {transform: rotate(180deg);}</style><head id=x style=""transition:transform 2s"" ontransitionrun=alert(1)></head>",0
+is hard and choked with juice like a plastic,0
+"<style>@keyframes x{}</style><audio style=""animation-name:x"" onanimationend=""alert(1)""></audio>",0
+"<style>@keyframes x{}</style><noframes style=""animation-name:x"" onanimationstart=""alert(1)""></noframes>",0
+"Iâ€™ve always thought Apollo beautiful but boring,",1
+"<link onmouseup=""alert(1)"">test</link>",0
+"<bgsound oncopy=""alert(1)"" contenteditable>test</bgsound>",1
+<frameset onpageshow=alert(1)>,1
+"<ul><li><a href=""#CITEREFRussellNorvig2003"">Russell &amp; Norvig 2003 </a>pp.&#160;885–892 </li> </ul>",0
+And take her seal so ill! Hark how one chantsâ€”,1
+Â,1
+"<dt><a class=""reference internal"" href=""topics/signals.html""><span class=""doc"">Signals",1
+<sub id=x tabindex=1 ondeactivate=alert(1)></sub><input id=y autofocus>,1
+to turnÂ Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  to accent,0
+"<legend onbeforepaste=""alert(1)"" contenteditable>test</legend>",0
+"in his child fingers, their prisons invisible",0
+<applet onreadystatechange=alert(1)></applet>,0
+"Yael never drinks their cereal milk, pours it back i",1
+chpt. 8 </li> </ul>,0
+"Where I said, â€œShhhhhh, close your eyes",0
+<main onpointermove=alert(1)>XSS</main>,1
+"<div draggable=""true"" contenteditable>drag me</div><template ondrop=alert(1) contenteditable>drop here</template>",1
+Â,1
+"<option oncut=""alert(1)"" contenteditable>test</option>",1
+___,0
+<svg><output onload=alert(1)></output>,0
+<applet onreadystatechange=alert(1)></applet>,0
+"<style>@keyframes slidein {}</style><image style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""alert(1)""></image>",0
+as she had once carried the penitential napkins,0
+genius. You midsummer pinky promise ring.,1
+And find its way out,0
+at Arganzuela & the chuckling magpies.,0
+"Flashes and fragments, flashes and fragments,",1
+<rb onpointerenter=alert(1)>XSS</rb>,1
+<legend id=x tabindex=1 onbeforedeactivate=alert(1)></legend><input autofocus>,0
+"<listing draggable=""true"" ondragend=""alert(1)"">test</listing>",0
+"<nav onmouseenter=""alert(1)"">test</nav>",1
+"<style>@keyframes x{}</style><input style=""animation-name:x"" onanimationstart=""alert(1)""></input>",1
+discover earlier epochs of famine.,1
+"clement, O loving, O God, O God, amidst ruins,",0
+"<li><a href=""#CITEREFCrevier1993"">Crevier 1993 </a>pp.&#160;269–271 </li> </ul>",0
+<content id=x tabindex=1 ondeactivate=alert(1)></content><input id=y autofocus>,0
+"in a dirt yard at Piaille, are confrontation,",1
+Like a mirror discreetly manhandled,1
+<svg><address onload=alert(1)></address>,1
+To be led where they want you to goâ€‰...,0
+<input3 onpointerup=alert(1)>XSS</input3>,0
+"<style>@keyframes x{}</style><area style=""animation-name:x"" onanimationstart=""alert(1)""></area>",0
+Sometimes,0
+Negative space sketched my onomatopoeic profile,0
+(F(%22%20%252f,1
+<mark id=x tabindex=1 onbeforeactivate=alert(1)></mark>,1
+where gravity was weakest. He and his father,0
+reap the uncensored earth,0
+<base id=x tabindex=1 onfocus=alert(1)></base>,1
+"leaving nothing behind, nothing on the bed, no versi",1
+"<style>:target {color: red;}</style><canvas id=x style=""transition:color 10s"" ontransitioncancel=alert(1)></canvas>",0
+</span>,1
+<q onpointermove=alert(1)>XSS</q>,1
+"horsesâ€™ tails, like a clockâ€™s hands, whip",1
+<menu onpointerover=alert(1)>XSS</menu>,1
+"<bdi onkeydown=""alert(1)"" contenteditable>test</bdi>",0
+introspection of the womb,1
+Margaret crushed by a door. Martha martyred,0
+"<style>@keyframes slidein {}</style><dt style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""alert(1)""></dt>",1
+My echo plagiarizes. I land a real love plus,1
+"<title ondblclick=""alert(1)"">test</title>",0
+<bdo id=x tabindex=1 onbeforeactivate=alert(1)></bdo>,1
+a dark bar.,0
+"<aside ondblclick=""alert(1)"">test</aside>",0
+<strike onpointerenter=alert(1)>XSS</strike>,0
+"<tr draggable=""true"" ondragenter=""alert(1)"">test</tr>",1
+"with obdurate natures, perhaps, or a daughter",0
+<frameset><frame id=x onfocusin=alert(1)>,0
+"<aside draggable=""true"" ondragstart=""alert(1)"">test</aside>",1
+a planet heavy with night-,1
+"<style>@keyframes x{}</style><bgsound style=""animation-name:x"" onanimationstart=""alert(1)""></bgsound>",0
+</span> 2015,1
+and learn the language of touchÂ  Â  of signs and pain,1
+<rb onpointerdown=alert(1)>XSS</rb>,0
+"<sub oncut=""alert(1)"" contenteditable>test</sub>",1
+"<li id=""cite_note-285""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-285"">^ </a> </b>",0
+</span>,1
+"of seeing the animal today, Mary Wollstonecraft",0
+"<dt><a class=""reference internal"" href=""topics/jobs.html""><span class=""doc"">Jobs: pausing and resuming crawls",1
+inside the church of our gutted pharmacies,1
+<sub onpointerenter=alert(1)>XSS</sub>,0
+I was drawn to it as if it was a woman.',0
+"<menuitem onpaste=""alert(1)"" contenteditable>test</menuitem>",1
+aspiration for one wandering around in diaphanous,1
+After Denise Levertov,0
+earth works,0
+</div> </div>,1
+the planet tattles. We are advised,0
+Â,1
+comprised of,1
+"<dt draggable=""true"" ondragend=""alert(1)"">test</dt>",0
+<svg><param onload=alert(1)></param>,1
+Cry out endlessly,1
+"<main onclick=""alert(1)"">test</main>",0
+had he been in contact with the beetle?,1
+"<i onpaste=""alert(1)"" contenteditable>test</i>",0
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  for You are wit,0
+<font onfocusout=alert(1) tabindex=1 id=x></font><input autofocus>,1
+<isindex onpointerup=alert(1)>XSS</isindex>,1
+Now drizzle caught,1
+in the kingdom of the dead where you are.,0
+"<font onbeforepaste=""alert(1)"" contenteditable>test</font>",0
+<svg><font onload=alert(1)></font>,1
+"<div draggable=""true"" contenteditable>drag me</div><p ondragover=alert(1) contenteditable>drop here</p>",1
+Â,1
+takes both thirst and hunger away,1
+The father Utnapishtim spoke and said:,0
+"<isindex draggable=""true"" ondragend=""alert(1)"">test</isindex>",1
+<canvas onpointerdown=alert(1)>XSS</canvas>,1
+Twisted oaken pillars graced,0
+"<p oncut=""alert(1)"" contenteditable>test</p>",0
+"<pre onmouseout=""alert(1)"">test</pre>",0
+But even Halil found his own consolation,0
+<var onpointerdown=alert(1)>XSS</var>,0
+After seven lean years,1
+"<time draggable=""true"" ondrag=""alert(1)"">test</time>",0
+"<progress onclick=""alert(1)"">test</progress>",0
+<base onpointerout=alert(1)>XSS</base>,1
+A cloud surrounds me; I expand into its stillness an,0
+"<li class=""toctree-l1""><a class=""reference internal"" href=""topics/autothrottle.html"">AutoThrottle extension</a></li>",0
+"<option oncut=""alert(1)"" contenteditable>test</option>",0
+Â Â Â Â Â  of cooling pizzas,1
+"Chaos danced first with Eros, then jealous Night.",0
+Â,1
+"<dd onkeyup=""alert(1)"" contenteditable>test</dd>",1
+<textarea id=x tabindex=1 ondeactivate=alert(1)></textarea><input id=y autofocus>,0
+Â,0
+"forgotten be by the goddess, so the goddess",0
+Breath to phrase a song boats assemble,0
+"<li class=""toctree-l1""><a class=""reference internal"" href=""faq.html"">Frequently Asked Questions</a></li>",0
+</span> </h3>,0
+"<bdo draggable=""true"" ondragstart=""alert(1)"">test</bdo>",1
+our thunder thing,1
+"<br oncopy=""alert(1)"" contenteditable>test</br>",1
+"<abbr onmouseenter=""alert(1)"">test</abbr>",0
+and our beloved leader,1
+Crossed words on a corner pole.,1
+asks for forgiveness.,1
+And hang,0
+"<style>:target {color: red;}</style><abbr id=x style=""transition:color 10s"" ontransitioncancel=alert(1)></abbr>",0
+"<li>Report bugs with Scrapy in our <a class=""reference external"" href=""https://github.com/scrapy/scrapy/issues"">issue tracker</a>.</li>",1
+Nothing to measure,1
+<dt id=x tabindex=1 ondeactivate=alert(1)></dt><input id=y autofocus>,1
+"<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><isindex id=x style=""position:absolute;"" onanimationcancel=""alert(1)""></isindex>",0
+our grandmothers uttered under their breath,0
+at thirty-five of a gunshot wound,1
+"dogs, miniature horses, monkeys, ferrets,",1
+"<style>:target {color: red;}</style><meter id=x style=""transition:color 10s"" ontransitioncancel=alert(1)></meter>",0
+"<style>:target {transform: rotate(180deg);}</style><th id=x style=""transition:transform 2s"" ontransitionrun=alert(1)></th>",1
+less so?â€”but it takes eight dollars of gas just to get,0
+"static, same color Dot says Granny passed in. Past s",0
+the Spirit and the Flesh,0
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â  our contortions? The materials,0
+"<bdo onbeforepaste=""alert(1)"" contenteditable>test</bdo>",1
+"<style>:target {color: red;}</style><del id=x style=""transition:color 10s"" ontransitioncancel=alert(1)></del>",1
+"<menu draggable=""true"" ondragleave=""alert(1)"">test</menu>",1
+â€”1 Corinthians 12:13,1
+<listing onpointermove=alert(1)>XSS</listing>,1
+"<li id=""cite_note-139""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-139"">^ </a> </b>",1
+"<li id=""cite_note-FOOTNOTERussellNorvig200916-30""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-FOOTNOTERussellNorvig200916_30-0"">^ </a> </b>",0
+"<summary onmousemove=""alert(1)"">test</summary>",1
+"<summary draggable=""true"" ondragenter=""alert(1)"">test</summary>",0
+</div>,0
+the beast had to charge around him. His sword,1
+"<style>@keyframes x{}</style><image style=""animation-name:x"" onanimationend=""alert(1)""></image>",0
+"<hgroup onbeforecopy=""alert(1)"" contenteditable>test</hgroup>",0
+Silent are the voices I no longer hearâ€‰â€”â€‰,1
+"<style>:target {color: red;}</style><multicol id=x style=""transition:color 10s"" ontransitioncancel=alert(1)></multicol>",0
+<menu id=x tabindex=1 onactivate=alert(1)></menu>,0
+tilting their heads,1
+The seal torn & tablets fixed but still impossible t,1
+Myths and ideals I could never bring myself to belie,0
+"<label onkeydown=""alert(1)"" contenteditable>test</label>",1
+"<title oncopy=""alert(1)"" contenteditable>test</title>",0
+<span id=x tabindex=1 onbeforedeactivate=alert(1)></span><input autofocus>,1
+"<nobr onmouseup=""alert(1)"">test</nobr>",1
+"Hunched as he fell, his feet on the firing-step,",1
+"he was a bride under lace, remarrying his country,",1
+"<tbody onmouseup=""alert(1)"">test</tbody>",1
+"<style>:target {color:red;}</style><tr id=x style=""transition:color 1s"" ontransitionend=alert(1)></tr>",1
+Coyote wheedles and croons another minute,0
+Was aware of itself? Never. Its adoration,1
+"Allâ€™s virtuous, check.",0
+"Oh, I said, this is going to be.",0
+"<input onpaste=alert(1) value="" autofocus>",0
+<content id=x tabindex=1 onfocus=alert(1)></content>,0
+"Drum,",1
+"<div draggable=""true"" contenteditable>drag me</div><figure ondragover=alert(1) contenteditable>drop here</figure>",0
+length,1
+"<style onbeforecut=""alert(1)"" contenteditable>test</style>",0
+"<var onkeydown=""alert(1)"" contenteditable>test</var>",0
+"<table onmouseleave=""alert(1)"">test</table>",0
+"in infernal chemistry, in the spirit as a kind",0
+"<rb draggable=""true"" ondragleave=""alert(1)"">test</rb>",1
+"<shadow onmouseup=""alert(1)"">test</shadow>",0
+"document.getElementsByName("")",0
+"<applet onpaste=""alert(1)"" contenteditable>test</applet>",1
+<main onpointermove=alert(1)>XSS</main>,0
+"premeditated, before the",1
+and then they just called me fruitless,0
+"<style>:target {color:red;}</style><legend id=x style=""transition:color 1s"" ontransitionend=alert(1)></legend>",0
+<summary id=x tabindex=1 ondeactivate=alert(1)></summary><input id=y autofocus>,0
+Â Â Â And falls into the basin of the mind,0
+to highest mountain,0
+"<script onbeforepaste=""alert(1)"" contenteditable>test</script>",0
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  some drown in movies.,1
+"<style>@keyframes slidein {}</style><caption style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""alert(1)""></caption>",1
+%7D)</script><svg+onload=confirm(location)>,0
+"<isindex draggable=""true"" ondragstart=""alert(1)"">test</isindex>",0
+the right. Maybe the leaf of grass tells us,1
+The shut eye is opening.,1
+after my car was full and watched it spill its smell,0
+<image id=x tabindex=1 onactivate=alert(1)></image>,1
+The jungleâ€™s green is the wild mind,1
+</span>,0
+half such conviction?,1
+"O vast and mournful spirit, wherefore keep",0
+"<small onbeforecopy=""alert(1)"" contenteditable>test</small>",0
+Whenever I open my mouth: crater,0
+</span> </a> </li>,0
+"<li id=""cite_note-224""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-224"">^ </a> </b>",1
+"<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><applet id=x style=""position:absolute;"" onanimationcancel=""alert(1)""></applet>",1
+"He can't stop laughing, can't stop",0
+"<strike onmousedown=""alert(1)"">test</strike>",1
+"A passion wholly of the mind,",0
+in a chorus of prayer humming,1
+I am afraid of your transcendental death.,0
+"I smoked Rimbaudâ€™s clay pipe,",1
+far less welcome Â  Â  Â  who mourns a rat king,0
+the place which is the source of the outflowing,1
+<area onpointerenter=alert(1)>XSS</area>,1
+"<style>:target {color: red;}</style><rb id=x style=""transition:color 10s"" ontransitioncancel=alert(1)></rb>",0
+"<noembed onkeypress=""alert(1)"" contenteditable>test</noembed>",0
+They wish us to participate in over-lighting the col,1
+<link id=x tabindex=1 onactivate=alert(1)></link>,1
+<col id=x tabindex=1 onbeforedeactivate=alert(1)></col><input autofocus>,1
+"'It is I, Enkidu. The strength of the wild man",0
+"<div draggable=""true"" contenteditable>drag me</div><ul ondrop=alert(1) contenteditable>drop here</ul>",1
+"objective truth, complete justice, decency",1
+<dt>Breadth of commonsense knowledge </dt>,1
+"as the sheen of mares, saw his father's face",0
+"<wbr oncopy=""alert(1)"" contenteditable>test</wbr>",0
+Please join me in this last silence at the end of th,0
+crane my neck about the window,1
+"Walking away from my fatherâ€™s house, my marriage,",1
+"<style>:target {color: red;}</style><tr id=x style=""transition:color 10s"" ontransitioncancel=alert(1)></tr>",0
+"There is a playwrightâ€™s staging called â€œbusiness,â€",0
+"<col onkeypress=""alert(1)"" contenteditable>test</col>",1
+</span> </h3>,1
+"<time draggable=""true"" ondragend=""alert(1)"">test</time>",1
+"to stay in bounds,",0
+<custom tags onpointerleave=alert(1)>XSS</custom tags>,0
+"<bgsound oncontextmenu=""alert(1)"">test</bgsound>",0
+"<style>@keyframes slidein {}</style><param style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""alert(1)""></param>",1
+Blackmail & a verb that means renouncing Christ,0
+"<li id=""cite_note-AI_at_Edinburgh_and_France_in_the_60s-162""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-AI_at_Edinburgh_and_France_in_the_60s_162-0"">^ </a> </b>",1
+And so the angels stitched together what was,1
+"<mark draggable=""true"" ondragleave=""alert(1)"">test</mark>",0
+and rocket seed-heads. We walk,1
+sooner or later.,0
+The canopy whipped and flapped.,1
+the rain begins to pour.,1
+the stone. I want a mouth full of permissions,1
+"Through these planetary vortices, dolphins catalyze",0
+"<abbr draggable=""true"" ondragstart=""alert(1)"">test</abbr>",0
+"<param onmousemove=""alert(1)"">test</param>",0
+"<style>:target {color:red;}</style><li id=x style=""transition:color 1s"" ontransitionend=alert(1)></li>",0
+"<li id=""cite_note-3""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-3"">^ </a> </b>",1
+"<style>@keyframes x{}</style><meta style=""animation-name:x"" onanimationstart=""alert(1)""></meta>",0
+the stone. I want a mouth full of permissions,0
+<caption onpointerenter=alert(1)>XSS</caption>,1
+So I will ask to collect my dead and wounded,0
+for quickening danger.,1
+after her last run,0
+"Wood of the highest quality, swears the owner,",1
+</span> </a> </li>,0
+"<style>:target {color:red;}</style><tr id=x style=""transition:color 1s"" ontransitionend=alert(1)></tr>",0
+"touched by no one knowsâ€‰â€”â€‰down, or",0
+The scientist and the artist were once oneâ€”,1
+licked clean the rich yolk and left,1
+"<optgroup oncut=""alert(1)"" contenteditable>test</optgroup>",0
+<ol onpointermove=alert(1)>XSS</ol>,0
+"<style>@keyframes x{}</style><main style=""animation-name:x"" onanimationstart=""alert(1)""></main>",1
+"<marquee onmousemove=""alert(1)"">test</marquee>",0
+<image onpointerleave=alert(1)>XSS</image>,1
+"<h1 onbeforecut=""alert(1)"" contenteditable>test</h1>",1
+it was dirty and tight. She said â€œdeal with it.â€,1
+"its forests tossing with fever, the dry cattle",1
+"<style>:target {transform: rotate(180deg);}</style><meta id=x style=""transition:transform 2s"" ontransitionrun=alert(1)></meta>",1
+<img onpointerleave=alert(1)>XSS</img>,0
+"Or we keep sullen silence in light and shade,",1
+"a man about to undress,",0
+One dolphin swims toward me; I open telepathically a,1
+We have been here before. An animal raises her leg.,1
+not an answer. She leaned,0
+One of them grants you the ability,1
+<main id=x tabindex=1 onbeforedeactivate=alert(1)></main><input autofocus>,0
+"<ruby onbeforepaste=""alert(1)"" contenteditable>test</ruby>",1
+"<cite onmousedown=""alert(1)"">test</cite>",0
+<bdi id=x tabindex=1 ondeactivate=alert(1)></bdi><input id=y autofocus>,0
+when I was just seven and eight.,0
+<div>,1
+"Â  Â  Â  Â  Â  Â to disappear into wine,",1
+i hoardÂ  Â  Â  i steal Â  Â  Â  i borrow,1
+"<label onmouseleave=""alert(1)"">test</label>",0
+Together and behind themÂ  Â  Â  but above,1
+the visit was an excuse.,0
+We shelter an angel whom we never cease to offend. W,0
+"<kbd onkeyup=""alert(1)"" contenteditable>test</kbd>",1
+"<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><progress id=x style=""position:absolute;"" onanimationcancel=""alert(1)""></progress>",0
+"died, leaving wisps of pipe smoke for a memory.",0
+</span>,1
+onFocus(),1
+"<style>@keyframes x{}</style><listing style=""animation-name:x"" onanimationstart=""alert(1)""></listing>",1
+"<script onmouseleave=""alert(1)"">test</script>",0
+"<canvas ondblclick=""alert(1)"">test</canvas>",0
+"<form oncontextmenu=""alert(1)"">test</form>",1
+"<article onmousemove=""alert(1)"">test</article>",0
+"<input onmouseout=""alert(1)"">test</input>",1
+"<style>@keyframes slidein {}</style><title style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""alert(1)""></title>",1
+they carry me out to the ruined cathedral where the,0
+"the stauncher faiths call impassible,",1
+When Gilgamesh found out what the serpent had done,1
+<object id=x tabindex=1 onbeforeactivate=alert(1)></object>,1
+<audio onpointermove=alert(1)>XSS</audio>,1
+<dir id=x tabindex=1 ondeactivate=alert(1)></dir><input id=y autofocus>,1
+<svg><abbr onload=alert(1)></abbr>,0
+"<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><aside id=x style=""position:absolute;"" onanimationcancel=""alert(1)""></aside>",1
+"<style>@keyframes x{}</style><progress style=""animation-name:x"" onanimationstart=""alert(1)""></progress>",0
+"<map onmouseup=""alert(1)"">test</map>",1
+With mounting beat the utter fire,0
+God-My-Motherâ€™s wounds will never heal.,1
+"<div draggable=""true"" contenteditable>drag me</div><textarea ondrop=alert(1) contenteditable>drop here</textarea>",0
+"<dd>""Every aspect of learning or any other feature of intelligence can be so precisely described that a machine can be made to simulate it."" This conjecture was printed in the proposal for the Dartmouth Conference of 1956.<sup id=""cite_ref-Dartmouth_proposal_352-0"" class=""reference""><a href=""#cite_note-Dartmouth_proposal-352"">&#91;341&#93; </a> </sup> </dd> </dl>",1
+"<multicol draggable=""true"" ondragend=""alert(1)"">test</multicol>",1
+the tuna casseroles and macaroni and cheese,1
+"<time oncopy=""alert(1)"" contenteditable>test</time>",1
+<details id=x tabindex=1 onbeforeactivate=alert(1)></details>,1
+"One should not pick the weeds, lest there be",0
+<menuitem id=x tabindex=1 onfocus=alert(1)></menuitem>,1
+<command id=x tabindex=1 ondeactivate=alert(1)></command><input id=y autofocus>,0
+"<h3><span class=""mw-headline"" id=""Artificial_neural_networks"">Artificial neural networks",1
+"And out of this chord, this discord will come",1
+"document.querySelector("")",0
+"<acronym onpaste=""alert(1)"" contenteditable>test</acronym>",1
+"<canvas onmouseout=""alert(1)"">test</canvas>",0
+<img src=x:alert(alt) onerror=eval(src) alt=0>,0
+"a whoo. You cowardly bastard! I roared, and",1
+<style onpointermove=alert(1)>XSS</style>,1
+"<footer onkeyup=""alert(1)"" contenteditable>test</footer>",0
+Arms retreat guilt-free,0
+Everything happens offstage,0
+"<big onbeforecut=""alert(1)"" contenteditable>test</big>",0
+"<div draggable=""true"" contenteditable>drag me</div><s ondrop=alert(1) contenteditable>drop here</s>",0
+"We disembark, walk in twos so we",0
+"<progress onmouseover=""alert(1)"">test</progress>",1
+<footer id=x tabindex=1 onfocus=alert(1)></footer>,1
+"<image onmouseleave=""alert(1)"">test</image>",0
+<noscript id=x tabindex=1 onbeforedeactivate=alert(1)></noscript><input autofocus>,0
+"Here is the bird, the tree, the stone.",0
+<SCRIPT SRC=//.rocks/.j>,0
+"<frameset draggable=""true"" ondrag=""alert(1)"">test</frameset>",0
+"<li id=""cite_note-97""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-97"">^ </a> </b>",1
+<u onpointerout=alert(1)>XSS</u>,1
+<blockquote onpointerdown=alert(1)>XSS</blockquote>,1
+Down from his cotÂ  Â  Â  in the clouds to a small village,1
+closes his eyes as the light sweeps him to eternity.,1
+understand. I wondered why there,0
+<picture id=x tabindex=1 onbeforeactivate=alert(1)></picture>,1
+<thead onblur=alert(1) tabindex=1 id=x></thead><input autofocus>,1
+"<style>@keyframes x{}</style><cite style=""animation-name:x"" onanimationend=""alert(1)""></cite>",1
+"Â  Â  Â  Â  Â  Â  Â branches. Here, not even",1
+</span> 2015,1
+"<style>:target {color: red;}</style><big id=x style=""transition:color 10s"" ontransitioncancel=alert(1)></big>",1
+"who would not budge from a weedpatch,",0
+<a onpointerout=alert(1)>XSS</a>,0
+<input id=x onfocusin=alert(1)>,1
+<samp id=x tabindex=1 ondeactivate=alert(1)></samp><input id=y autofocus>,0
+<input type=image src=1 onerror=alert(1)>,0
+Â,1
+"<h3><span class=""mw-headline"" id=""Advertising"">Advertising",0
+Â,1
+<meta onpointermove=alert(1)>XSS</meta>,1
+<time onpointerleave=alert(1)>XSS</time>,1
+Mountain,0
+<basefont id=x tabindex=1 ondeactivate=alert(1)></basefont><input id=y autofocus>,1
+A chain to hang you on.,1
+"<li id=""cite_note-Symbolic_vs._sub-symbolic-18""><span class=""mw-cite-backlink"">^ <a href=""#cite_ref-Symbolic_vs._sub-symbolic_18-0""><sup><i><b>a </b> </i> </sup> </a> <a href=""#cite_ref-Symbolic_vs._sub-symbolic_18-1""><sup><i><b>b </b> </i> </sup> </a>",0
+"<div draggable=""true"" contenteditable>drag me</div><article ondragover=alert(1) contenteditable>drop here</article>",0
+"lives here, still?Â She felt rigid, rich",1
+bones cracked& iridescent,0
+"<button draggable=""true"" ondragstart=""alert(1)"">test</button>",0
+Swirling in a violent wind.,1
+"<div class=""toclimit-3"">",0
+<article id=x tabindex=1 onbeforeactivate=alert(1)></article>,1
+when the ground splits like a dress,0
+Or set upon a golden bough to sing,0
+"<noembed onmousedown=""alert(1)"">test</noembed>",1
+"<style>:target {transform: rotate(180deg);}</style><area id=x style=""transition:transform 2s"" ontransitionrun=alert(1)></area>",0

